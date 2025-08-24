@@ -12,7 +12,7 @@
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">My job is done with jenkins</h1>
       <h2 class="text-center">Welcome to Suhan , Kuldeep and vishal on behalf of DevOps Academy</h2>      
-<center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
+<center><img src="https://techedo.com/blog/wp-content/uploads/2021/03/devops-training-in-chandigarh-by-techedo-technologies.jpg" width=50% hight=50%>
  </center> </div>
 </body>
 </html>
